@@ -1,4 +1,4 @@
 neuro-flow==21.1.4
-tqdm==4.33.0
+tqdm==4.66.3
 catalyst==19.12
 wandb==0.10.14
